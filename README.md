@@ -23,5 +23,12 @@ This project implements a **Proportional-Integral (PI) controller** using MATLAB
 ## 🤝 Contribute
 Feel free to fork the project and enhance it!  
 
+## 🔄 Reusable PI Controller Subsystem
+This repository now includes a **PI controller as a reusable Simulink Subsystem** (`pi_controller.slx`).  
+It can be integrated into other Simulink models for flexible and modular control design.
+
+### 📂 Additional Files
+- `pi_controller.slx` - **Subsystem reference for reusable PI control**
+
 ---
 🔗 **Check out my GitHub for more projects!**  
